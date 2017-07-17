@@ -1,8 +1,9 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.video-area .video-poster {
+    background: url(https://static.pexels.com/photos/487867/pexels-photo-487867.jpeg) no-repeat center center;
 }
 
-a {
-  color: #00B7FF;
+
+p.js-program-description.description {
+    height: 62px!important;
+    overflow: hidden;
 }

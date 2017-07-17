@@ -48,6 +48,8 @@
     "serve-favicon": "~2.3.0",
     "simple-get-json": "^1.1.0",
     "store": "^2.0.12",
-    "validator": "^7.0.0"
+    "validator": "^7.0.0",
+    "request"    : "latest",
+    "cheerio"    : "latest"
   }
 }
